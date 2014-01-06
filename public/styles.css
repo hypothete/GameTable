@@ -1,0 +1,26 @@
+body{
+	font-family: sans-serif;
+	font-weight:bold;
+	text-align:center;
+	margin: 0px;
+	
+	overflow:hidden;
+
+}
+
+canvas{
+	border: 1px dashed black;
+}
+
+ul{
+	padding: 0px;
+	margin:10px;
+	max-height: 600px;
+	border: 3px inset gray;
+	overflow-y:scroll;
+}
+
+button{
+	width: 200px;
+	height: 200px;
+}
